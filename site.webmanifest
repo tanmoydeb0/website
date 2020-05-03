@@ -1,0 +1,19 @@
+{
+    "name": "Tanmoy Deb",
+    "short_name": "Tanmoy Deb",
+    "icons": [
+        {
+            "src": "https://res.cloudinary.com/tanmoy-deb/image/upload/v1588533738/chrome-icon192_192_yokbve.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://res.cloudinary.com/tanmoy-deb/image/upload/v1588533739/chrome-icon512_512_sv6m87.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
