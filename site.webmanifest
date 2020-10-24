@@ -3,17 +3,17 @@
     "short_name": "Tenmozo",
     "icons": [
         {
-            "src": "https://res.cloudinary.com/tanmoy-deb/image/upload/v1598971920/192_udpwto.png",
+            "src": "https://1.bp.blogspot.com/-vx-YttDkFQc/X5OdZOgSeOI/AAAAAAAACIU/xdbzZQBklM8hLIjmmmxSAaIz5EKrC0J8gCLcBGAsYHQ/s192/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://res.cloudinary.com/tanmoy-deb/image/upload/v1598971920/512_l70obf.png",
+            "src": "https://1.bp.blogspot.com/-NDn-mTGb0so/X5OdZKAxfSI/AAAAAAAACIQ/GrfeYIaKLYoIrAwLWkRW-rhr637N-iJvgCLcBGAsYHQ/s512/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#3c56c5",
-    "background_color": "#3c56c5",
+    "theme_color": "#33cc99",
+    "background_color": "#fff",
     "display": "standalone"
 }
